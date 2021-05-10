@@ -11,7 +11,9 @@ In this exercise, you will create and explore an Azure Machine Learning workspac
 
 As its name suggests, a workspace is a centralized place to manage all of the Azure ML assets you need to work on a machine learning project.
 
-1. In the [Azure portal](https://portal.azure.com), create a new **Machine Learning** resource, specifying the following settings:
+1. In the [Azure portal](https://portal.azure.com), Go to the Menu (three horizontal lines) and select **All services**. In the search bar type in Machine learning''' and click on ***
+
+2.  specifying the following settings:
 
     - **Subscription**: *Your Azure subscription*
     - **Resource group**: *Create or select a resource group*
